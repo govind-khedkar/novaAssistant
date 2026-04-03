@@ -8,4 +8,4 @@ pydub==0.25.1
 pyttsx3==2.90
 pytz==2022.1
 Werkzeug==2.2.2
-setuptools
+setuptools==70.0.0
